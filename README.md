@@ -1,6 +1,8 @@
 ﻿<!-- toolkit-release-batch-v1 -->
 # PowerShell Automation Toolkit
 
+[![Windows PowerShell 5.1 CI](https://github.com/eyebuckle-lab/Windows-Endpoint-Automation-Toolkit/actions/workflows/windows-powershell-ci.yml/badge.svg?branch=main)](https://github.com/eyebuckle-lab/Windows-Endpoint-Automation-Toolkit/actions/workflows/windows-powershell-ci.yml)
+
 Read-only Windows endpoint administration and IT asset-management diagnostics,
 written for **Windows PowerShell 5.1**. The toolkit exports local CSV reports,
 offers a one-command assessment, and includes independent automated tests.
