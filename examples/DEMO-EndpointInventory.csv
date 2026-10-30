@@ -1,0 +1,2 @@
+﻿"CollectedAt","ComputerName","Manufacturer","Model","SerialNumber","WindowsName","WindowsVersion","WindowsBuild","Processor","RAM_GB","SystemDrive","DriveTotalGB","DriveFreeGB"
+"2026-01-15 10:00:00","DEMO-PC-001","Example Hardware Co.","Fictional Workstation","DEMO-SERIAL-0001","Microsoft Windows 11 Pro","10.0.26100","26100","Example 8-Core CPU","16","C:","512","240"

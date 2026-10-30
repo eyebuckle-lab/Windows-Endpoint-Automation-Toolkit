@@ -1,0 +1,2 @@
+﻿"CollectedAt","ComputerName","BitLockerVolumeStatus","BitLockerProtectionStatus","BitLockerEncryptionPercent","FirewallDomainEnabled","FirewallPrivateEnabled","FirewallPublicEnabled","DefenderRealtimeEnabled","DefenderAntivirusEnabled","DefenderSignatureDate","WindowsUpdateService","WindowsUpdateStartType","UpdatePolicyNoAutoUpdate"
+"2026-01-15 10:00:00","DEMO-PC-001","Unavailable","Unavailable","Unavailable","True","True","True","True","True","2026-01-14 09:00:00","Stopped","Manual","NotConfigured"

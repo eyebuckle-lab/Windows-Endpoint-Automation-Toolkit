@@ -1,0 +1,2 @@
+﻿"CollectedAt","ComputerName","UptimeDays","WindowsUpdateService","BITSService","DefenderService","DefenderRealtime","DefenderSignatureDate","SystemDrive","DriveFreeGB","DriveFreePercent"
+"2026-01-15 10:00:00","DEMO-PC-001","5.25","Stopped","Running","Running","True","2026-01-14 09:00:00","C:","240","46.88"

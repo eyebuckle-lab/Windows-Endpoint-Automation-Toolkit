@@ -1,0 +1,4 @@
+﻿"ComputerName","CheckedAt","ServiceName","Status","StartType","Error"
+"DEMO-PC-001","2026-01-15 10:00:00","wuauserv","Stopped","Manual",""
+"DEMO-PC-001","2026-01-15 10:00:00","BITS","Running","Manual",""
+"DEMO-PC-001","2026-01-15 10:00:00","WinDefend","Running","Automatic",""

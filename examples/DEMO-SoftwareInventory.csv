@@ -1,0 +1,3 @@
+﻿"CollectedAt","ComputerName","Name","Version","Publisher","InstallDate","Scope","Architecture","RegistryKey"
+"2026-01-15 10:00:00","DEMO-PC-001","Example Editor","1.2.3","Example Software Inc.","20260110","Machine","64-bit","HKEY_LOCAL_MACHINE\SOFTWARE\Example\Editor"
+"2026-01-15 10:00:00","DEMO-PC-001","Sample Tool","2.0","Fictional Publisher","20260111","CurrentUser","64-bit","HKEY_CURRENT_USER\SOFTWARE\Example\Tool"
